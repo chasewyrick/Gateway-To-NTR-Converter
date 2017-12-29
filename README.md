@@ -27,5 +27,7 @@ This is a program I made that will automatically convert Gateshark codes to NTR.
 
 -All of the things listed above under "Features"
 
-# Download
-https://github.com/DarkFlare69/Gateway-To-NTR-Converter/raw/master/Gateway%20To%20NTR%20Converter/Release/Gateway%20To%20NTR%20Converter.zip
+# 6ilent Improvements Include
+* CLeaner UI
+* Broken into easy to use steps
+* Code maintenance

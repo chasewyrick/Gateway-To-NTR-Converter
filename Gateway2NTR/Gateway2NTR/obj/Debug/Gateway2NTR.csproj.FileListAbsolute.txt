@@ -1,0 +1,11 @@
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\bin\Debug\Gateway2NTR.exe.config
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\bin\Debug\Gateway2NTR.exe
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\bin\Debug\Gateway2NTR.pdb
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.Gateway.resources
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.Converter.resources
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.csproj.GenerateResource.Cache
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.exe
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.pdb
+C:\Users\Jessica\Desktop\Gateway2NTR\Gateway2NTR\obj\Debug\Gateway2NTR.csprojResolveAssemblyReference.cache
