@@ -28,6 +28,6 @@ This is a program I made that will automatically convert Gateshark codes to NTR.
 -All of the things listed above under "Features"
 
 # 6ilent Improvements Include
-* CLeaner UI
+* Cleaner UI
 * Broken into easy to use steps
 * Code maintenance
